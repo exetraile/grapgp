@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Graph\Graph\obj\Debug\net8.0\Graph.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Graph\Graph\obj\Debug\net8.0\Graph.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Graph\Graph\obj\Debug\net8.0\Graph.AssemblyInfo.cs
+C:\Users\User\source\repos\Graph\Graph\obj\Debug\net8.0\Graph.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Graph\Graph\bin\Debug\net8.0\Graph.exe
+C:\Users\User\source\repos\Graph\Graph\bin\Debug\net8.0\Graph.deps.json
+C:\Users\User\source\repos\Graph\Graph\bin\Debug\net8.0\Graph.runtimeconfig.json
+C:\Users\User\source\repos\Graph\Graph\bin\Debug\net8.0\Graph.dll
+C:\Users\User\source\repos\Graph\Graph\bin\Debug\net8.0\Graph.pdb
+C:\Users\User\source\repos\Graph\Graph\obj\Debug\net8.0\Graph.dll
+C:\Users\User\source\repos\Graph\Graph\obj\Debug\net8.0\refint\Graph.dll
+C:\Users\User\source\repos\Graph\Graph\obj\Debug\net8.0\Graph.pdb
+C:\Users\User\source\repos\Graph\Graph\obj\Debug\net8.0\Graph.genruntimeconfig.cache
+C:\Users\User\source\repos\Graph\Graph\obj\Debug\net8.0\ref\Graph.dll
